@@ -1,4 +1,4 @@
-![MasterHead](https://builtin.com/sites/www.builtin.com/files/styles/og/public/full-stack-developer.jpg)
+![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)
 <h1 align="center">Hi 👋, I'm Reece</h1>
 <h3 align="center">A passionate Full-Stack developer from the UK</h3>
 
